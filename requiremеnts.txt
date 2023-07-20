@@ -1,0 +1,4 @@
+requests
+time
+tqdm
+Токены и ВК id не заполнены
